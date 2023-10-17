@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #0b0b0b;
+  min-height: 100vh;
+}
+
+.greetings {
+  font-family: "Monoton";
+  font-size: 40px;
+  font-weight: bold;
+  color: #e3ca2d;
+}
+
+.cnt {
+  font-family: "Monospace";
+  color: grey;
+  font-size: 40px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #22c55e;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: bold;
+  width: 99px;
+  height: 44px;
+  border-radius: 8px;
+}
