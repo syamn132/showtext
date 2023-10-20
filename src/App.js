@@ -1,6 +1,6 @@
 import './App.css';
 import Item from './MyItem';
-// import Counter from './MyCounter';
+
 
 function App() {
   return (

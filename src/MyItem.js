@@ -10,7 +10,7 @@ function Item() {
   const imageAltText = "Image";
 
   const handleClick = () => {
-    setShowText(!showText); 
+    setShowText(!showText);
     setCount(count+1);
     setImageSource(imageSource === originalImage ? replacedImage : originalImage);
   };
